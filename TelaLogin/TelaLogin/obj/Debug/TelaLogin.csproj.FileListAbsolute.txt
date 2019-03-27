@@ -1,0 +1,10 @@
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TelaLogin\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Form1.resources
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.Cache
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TelaLogin\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TelaLogin\TelaLogin\obj\Debug\TelaLogin.pdb
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Form2.resources
