@@ -15,11 +15,11 @@
 <target=_blank><img align="center"  alt="jonas-C#" height ="300" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img></target>
 </a>
 
-# Projeto Sistema de Cantina , Programação Orientado Objeto  C#
+# Projeto Tela de login e principal, Programação Orientado Objeto  C#
 
 # Sobre o Projeto
 
-- Sistema de Cantina, projeto Orientação objeto em C#
+- Sistema tela de login e principal, projeto Orientação objeto em C#
 - Treinamento e atualização no aprendizado em programação orientado objeto
 - Treinamento , aprendendo a desenvolver, attributos, construtores, metodos, desenvolvimentos de telas, organização de classe em C#
 - Projeto remoto, sem banco de dados.
